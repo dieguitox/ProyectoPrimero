@@ -1,0 +1,18 @@
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240207T012541Z-001\AerolineasAmericanas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240207T012541Z-001\AerolineasAmericanas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240207T012541Z-001\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240207T012541Z-001\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csproj.CoreCompileInputs.cache

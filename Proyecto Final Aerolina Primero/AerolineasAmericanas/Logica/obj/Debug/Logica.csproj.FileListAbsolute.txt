@@ -1,0 +1,30 @@
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240207T012541Z-001\AerolineasAmericanas\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\bin\Debug\Logica.dll
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\bin\Debug\Logica.pdb
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\bin\Debug\EntidadesCompartidas.dll
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\bin\Debug\Persistencia.dll
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\obj\Debug\Logica.dll
+C:\Users\Usuario\Downloads\AerolineasAmericanas-20240307T153159Z-001\AerolineasAmericanas\Logica\obj\Debug\Logica.pdb
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\bin\Debug\Logica.dll
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\bin\Debug\Logica.pdb
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\bin\Debug\EntidadesCompartidas.dll
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\bin\Debug\Persistencia.dll
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\bin\Debug\EntidadesCompartidas.pdb
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\bin\Debug\Persistencia.pdb
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\obj\Debug\Logica.dll
+D:\Bios\Proyecto Final Primero\ProyectoFinal\AerolineasAmericanas\Logica\obj\Debug\Logica.pdb
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Estudio\Bios\Obligatorios\Proyecto Final Aerolina Primero\AerolineasAmericanas\Logica\obj\Debug\Logica.csproj.Up2Date

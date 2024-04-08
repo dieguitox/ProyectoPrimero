@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+        }
+        .style2
+        {
+            font-size: xx-large;
+        }
+        .style4
+        {
+            width: 638px;
+        }
+        .style5
+        {
+            width: 465px;
+        }
+        .style6
+        {
+            width: 547px;
+        }
+        .style7
+        {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body style="height: 582px">
+    <form id="form1" runat="server">
+    <div align="center" 
+        style="height: 600px; color: #0000FF; font-size: x-large; background-color: #99FF66;">
+        <br />     
+        <span class="style2"><span class="style7">Aerolinea Nacional de Vuelos</span><br />
+        </span><br />
+        <table style="width: 90%; background-color: #99FF66;">
+            <tr>
+                <td class="style5" style="background-color: #99FF66; text-align: left;">
+                    <asp:Label ID="lblUser" runat="server" ForeColor="#000099" 
+                        style="font-size: large; text-decoration: underline;" 
+                        Font-Underline="False"></asp:Label>
+                </td>
+                <td class="style4" style="background-color: #99FF66; text-align: left;">
+                    &nbsp;</td>
+                <td class="style4" style="background-color: #99FF66; text-align: left;">
+                    &nbsp;</td>
+                <td class="style4" style="background-color: #99FF66; text-align: left;">
+                    &nbsp;</td>
+                <td class="style6" style="background-color: #99FF66; text-align: left;" 
+                    colspan="2">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td class="style4" style="background-color: #99FF66; text-align: left;" 
+                    colspan="5">
+                    <asp:Menu ID="Menu1" runat="server" BackColor="#B5C7DE" 
+                        DynamicHorizontalOffset="2" Font-Bold="False" Font-Italic="True" 
+                        Font-Names="Verdana" Font-Size="Small" ForeColor="#003300" 
+                        StaticSubMenuIndent="10px">
+                        <DynamicHoverStyle BackColor="#284E98" ForeColor="White" />
+                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <DynamicMenuStyle BackColor="#B5C7DE" />
+                        <DynamicSelectedStyle BackColor="#507CD1" />
+                        <Items>
+                            <asp:MenuItem Text="Menú" Value="Menú">
+                                <asp:MenuItem NavigateUrl="~/AMBclientes.aspx" Text="Clientes" Value="Clientes">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ABMaeropuertos.aspx" Text="Aeropuertos" 
+                                    Value="Aeropuertos"></asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/ABMciudades.aspx" Text="Ciudades" Value="Ciudades">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/AltaVuelo.aspx" Text="Vuelos" Value="Vuelos">
+                                </asp:MenuItem>
+                                <asp:MenuItem NavigateUrl="~/VentaPasajes.aspx" Text="Pasajes" Value="Pasajes">
+                                </asp:MenuItem>
+                            </asp:MenuItem>
+                        </Items>
+                        <StaticHoverStyle BackColor="#284E98" ForeColor="White" />
+                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <StaticSelectedStyle BackColor="#507CD1" />
+                    </asp:Menu>
+                </td>
+                <td style="background-color: ##99FF66; text-align: right;">
+                    <asp:Button ID="Button1" runat="server" onclick="Button1_Click" 
+                        Text="Deslogueo" />
+                </td>
+            </tr>
+            <tr>
+                <td class="style1" colspan="6" style="background-color: #FFFFFF">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            </table>
+    </div>
+    <p align="center">
+        &nbsp;</p>
+    </form>
+</body>
+</html>
